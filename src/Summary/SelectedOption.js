@@ -1,5 +1,4 @@
 import React from 'react' 
-import Total from './Total'
 
 function SelectedOption(props) {
     return (
